@@ -31,36 +31,36 @@ Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º se
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/html5-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/css3-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/js-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/git-logo.svg"
-                        style="max-width:100%;" width="60"></a></th>
+                        style="max-width:100%;" height="30"></a></th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/github-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/sql-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/visualcode-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" height="30">
                         </th>
         </tr>
     </thead>
