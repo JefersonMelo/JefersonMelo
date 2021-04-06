@@ -29,7 +29,35 @@ Here are some ideas to get you started:
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/html5-logo.svg"
                         style="max-width:100%;" width="60">
                         </th>
-           
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/css3-logo.svg"
+                        style="max-width:100%;" width="60">
+                        </th>
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/js-logo.svg"
+                        style="max-width:100%;" width="60">
+                        </th>
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/git-logo.svg"
+                        style="max-width:100%;" width="60"></a></th>
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/github-logo.svg"
+                        style="max-width:100%;" width="60">
+                        </th>
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/sql-logo.svg"
+                        style="max-width:100%;" width="60">
+                        </th>
+            <th align="center">
+                        <img
+                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/visualcode-logo.svg"
+                        style="max-width:100%;" width="60">
+                        </th>
         </tr>
     </thead>
 </table>
