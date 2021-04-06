@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 >Sou um aspirante a desenvolvedor e amo programar e C# é minha linguagem preferida.
 
-<img src="file://IMG_20181123_115829.jpg(https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg" alt="alt text" width="200"/>
+<img src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg" alt="alt text" width="200"/>
