@@ -16,10 +16,11 @@ Here are some ideas to get you started:
 -->
 >Sou um aspirante a desenvolvedor e amo programar e C# é minha linguagem preferida.
 
-<nav>
-<img src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg" alt="alt text" width="50" height="100"/>
+<table>
+<thead>
+<tr>
+<th align="center"><a target="_blank" rel="noopener noreferrer" href="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"><img src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg" style="max-width:100%;" width="60"></a></th>
 
-<img src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg" alt="alt text" width="50" height="100"/>
-
-</nav>
+</thead>
+</table>
 
