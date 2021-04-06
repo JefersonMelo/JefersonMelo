@@ -66,3 +66,6 @@ Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º se
     </thead>
 </table>
 </p>
+
+[<img src="img/c-sharp-logo.svg" width="30"/>](https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg)
+-----
