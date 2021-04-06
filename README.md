@@ -1,4 +1,4 @@
-## Olá 👋, sou o Jeferson!
+## Olá 👋, sou o Jeferson! [<img src="img/man-technologist-logo.png" width="15"/>]()
 
 <!--
 **JefersonMelo/JefersonMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,57 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 >Sou um aspirante a desenvolvedor e programar é minha paixão e C# é minha linguagem preferida.  
-Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º semestre.
+Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º semestre.  
+
+## Rede Social
+
+[<img src="img/linkedin.svg" width="30"/>](https://www.linkedin.com/in/jeferson-melo-841b981b0/)
 
 ## Estas São as Tecnologias que Tenho Estudado
 
-<p align="center">
-<table>
-    <thead>
-        <tr>
-            <th align="center">
-                    <img
-                    src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"
-                    style="max-width:100%;" height="30">
-                    </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/html5-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/css3-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/js-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/git-logo.svg"
-                        style="max-width:100%;" height="30"></a></th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/github-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/sql-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-            <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/visualcode-logo.svg"
-                        style="max-width:100%;" height="30">
-                        </th>
-        </tr>
-    </thead>
-</table>
-</p>
-
-[<img src="img/c-sharp-logo.svg" width="30"/>](https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg) [<img src="img/c-sharp-logo.svg" width="50"/>](img/c-sharp-logo.svg)
------
+|[<img src="img/c-sharp-logo.svg" width="30"/>](https://github.com/JefersonMelo/07-DIO/tree/master/01-MRV) [<img src="img/visualcode-logo.svg" width="30"/>](https://github.com/JefersonMelo/07-DIO/tree/master/02-LocalizaLabs) [<img src="img/html5-logo.svg" width="30"/>](https://github.com/JefersonMelo/07-DIO/tree/master/04-HTML-Web-Developer) [<img src="img/css3-logo.svg" width="30"/>](https://github.com/JefersonMelo/07-DIO/blob/master/04-HTML-Web-Developer/03-Recriando-a-Interface-do-Netflix/style/main.css) [<img src="img/js-logo.svg" width="30"/>](https://github.com/JefersonMelo/07-DIO/tree/master/04-HTML-Web-Developer/05-Recriando-o-jogo-da-cobrinha-com-JavaScript/Snake-Game) [<img src="img/git-logo.svg" width="30"/>]() [<img src="img/github-logo.svg" width="30"/>]() [<img src="img/sql-logo.svg" width="30"/>](https://github.com/JefersonMelo/08-LubySoftware/blob/master/02-SQL/SQL.md)
+----- |
