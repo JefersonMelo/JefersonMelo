@@ -19,14 +19,15 @@ Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º se
 
 ## Estas São as Tecnologias que Tenho Estudado
 
+<p>
 <table>
     <thead>
         <tr>
             <th align="center">
-                        <img
-                        src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"
-                        style="max-width:100%;" width="60" height="20">
-                        </th>
+                    <img
+                    src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"
+                    style="max-width:100%;" width="60">
+                    </th>
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/html5-logo.svg"
@@ -64,3 +65,4 @@ Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º se
         </tr>
     </thead>
 </table>
+</p>
