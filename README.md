@@ -1,4 +1,4 @@
-### Olá 👋, sou o Jeferson!
+## Olá 👋, sou o Jeferson!
 
 <!--
 **JefersonMelo/JefersonMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->Sou um aspirante a desenvolvedor e amo programar e C# é minha linguagem preferida.
+>Sou um aspirante a desenvolvedor e programar é minha paixão e C# é minha linguagem preferida.  
+Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º semestre.
+
+## Estas São as Tecnologias que Tenho Estudado
 
 <table>
     <thead>
@@ -22,7 +25,7 @@ Here are some ideas to get you started:
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"
-                        style="max-width:100%;" width="60">
+                        style="max-width:100%;" width="40">
                         </th>
             <th align="center">
                         <img
