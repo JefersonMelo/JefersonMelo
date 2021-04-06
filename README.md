@@ -25,7 +25,7 @@ Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º se
             <th align="center">
                         <img
                         src="https://github.com/JefersonMelo/JefersonMelo/blob/main/img/c-sharp-logo.svg"
-                        style="max-width:100%;" width="100" height="50">
+                        style="max-width:70%;" width="60">
                         </th>
             <th align="center">
                         <img
