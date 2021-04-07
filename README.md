@@ -1,5 +1,4 @@
 ## Olá, sou o Jeferson [<img src="img/man-technologist-logo.png" width="20"/>](img/man-technologist-logo.png)!
-----
 
 <!--
 **JefersonMelo/JefersonMelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +17,7 @@ Here are some ideas to get you started:
 >Sou um aspirante a desenvolvedor e programar é minha paixão e C# é minha linguagem preferida.  
 Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º semestre.  
 
-## Estudante de Tecnologia
+## Contatos
 
 |  [<img src="img/linkedin.svg" width="30" title="Ícones feitos por https://www.flaticon.com/br/autores/google"/>](https://www.linkedin.com/in/jeferson-melo-841b981b0/)  |  [<img src="img/twitter-logo.svg" width="30" title="Ícones feitos por https://www.flaticon.com/br/autores/google"/>](https://twitter.com/jefmelo?s=09/)  |
 |-----|-----|
