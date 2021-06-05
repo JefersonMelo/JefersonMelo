@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->Sou um aspirante a desenvolvedor e programar é minha paixão e C# é minha linguagem preferida.  
-Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 5º semestre.  
+>Sou um aspirante a desenvolvedor e programar é minha paixão.  
+>Tenho estudado, principalmente C#, Javascript, CSS, HTML e, recentemente, Android com Kotlin  
+>Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 6º semestre.  
 
 ## Contatos
 
