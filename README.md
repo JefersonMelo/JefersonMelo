@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JefersonMelo&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&hide=java&layout=compact&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&layout=compact&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
