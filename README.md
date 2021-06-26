@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->Sou um aspirante a desenvolvedor e programar é minha paixão.  
->Tenho estudado, principalmente C#, Javascript, CSS, HTML e, recentemente, Android Mobile  
+>Sou um desenvolvedor em nível acadêmico e realmente aprecio escrever umas linhas de código e ver tal aplicação em uso. Isso é muito divertido😄
+>Tenho estudado algumas tecnologias: C#, Javascript, CSS, HTML e, recentemente, Android Mobile, mas meu forte é C# e Android.  
 >Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 6º semestre.  
 
 ## Contatos
