@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->Sou um desenvolvedor em nível acadêmico e realmente aprecio escrever umas linhas de código e ver tal aplicação em uso. Isso é muito divertido😄
->Tenho estudado algumas tecnologias: C#, Javascript, CSS, HTML e, recentemente, Android Mobile, mas meu forte é C# e Android.  
->Sou estudante de Sistemas de Informação na UNICSUL e atualmente curso o 6º semestre.  
+>Pernambucano que reside em Sampa. Apaixonado por tecnologia e pela sensação de dever cumprido pela conclusão de um projeto e ver essa aplicação sendo utilizada. Atualmente estudo de Sistemas de Informação na UNICSUL, 6º Semestre. Estudando e praticando algumas tecnologias: C#, DotNet, SQL, HTML, CSS e JavaScript e Android Mobile, são as tecnologias que tenho me dedicado. Mas meu forte é C# e Android.  
 
 ## Contatos
 
