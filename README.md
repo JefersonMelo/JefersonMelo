@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonMelo&count_private=true&show_icons=true&hide=issues&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
 
-[![Jeferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JefersonMelo&theme=dark&hide=java,properties,json,mkd)](https://github.com/JefersonMelo/github-readme-stats)  
+[![Jeferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JefersonMelo&layout=compact&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JefersonMelo&repo=github-readme-stats&show_owner=true&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
 
