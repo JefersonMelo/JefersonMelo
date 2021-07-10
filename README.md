@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 [![Jeferson's GitHub stats](https://github-readme-stats.vercel.app/api?username=JefersonMelo&count_private=true&show_icons=true&hide=issues&theme=dark)](https://github.com/JefersonMelo/github-readme-stats)  
 
-[![Jeferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JefersonMelo&layout=compact&theme=dark&langs_count=6)](https://github.com/JefersonMelo/github-readme-stats)  
+[![Jeferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JefersonMelo&layout=compact&theme=dark&langs_count=8)](https://github.com/JefersonMelo/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&layout=compact&theme=dark&langs_count=6)](https://github.com/JefersonMelo/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&layout=compact&theme=dark&langs_count=8)](https://github.com/JefersonMelo/github-readme-stats)  
