@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 [![Jeferson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JefersonMelo&layout=compact&theme=dark&langs_count=6)](https://github.com/JefersonMelo/github-readme-stats)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&layout=compact&theme=dark&langs_count=4)](https://github.com/JefersonMelo/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JefersonMelo&layout=compact&theme=dark&langs_count=6)](https://github.com/JefersonMelo/github-readme-stats)  
 
 <!--
 [<img src="img/js-logo.svg" width="30" title=" Icons made by Freepik www.freepik.com www.flaticon.com/"/>](https://github.com/JefersonMelo/07-DIO/tree/master/05-JavaScript-Game-Developer)
