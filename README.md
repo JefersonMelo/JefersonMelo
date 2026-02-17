@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
->Pernambucano que reside em Sampa. Apaixonado por tecnologia e pela sensação de dever cumprido pela conclusão de um projeto e ver essa aplicação sendo utilizada. Atualmente estudo de Sistemas de Informação na UNICSUL, 6º Semestre. Estudando e praticando algumas tecnologias: Flutter, SQL, Python e ReactJS, são as tecnologias que tenho me dedicado. ***Mas meu forte é Flutter e Python.***  
+>Pernambucano que reside em Sampa. Apaixonado por tecnologia e pela sensação de dever cumprido após a conclusão de um projeto e ver essa aplicação sendo utilizada. Atualmente essas são minhas tecnologias: Flutter, SQL, Python e ReactJS, são as tecnologias que tenho me dedicado. ***Mas meu forte é Flutter e Python.***  
 
 ## Contatos
 
